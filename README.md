@@ -1,4 +1,3 @@
-====================
 Data structures and Algorithms 
 ====================
 1. Measuring Algorithms Timing
