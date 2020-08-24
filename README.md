@@ -1,4 +1,4 @@
-Data structures and Algorithms 
+Data Structures and Algorithms 
 ====================
 1. Measuring Algorithms Timing
 2. QuickSort
